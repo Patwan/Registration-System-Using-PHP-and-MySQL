@@ -3,7 +3,7 @@ A Simple registration system build using PHP and MySQL
 
 This simple repo shows how to build a Registration System using PHP and MySQLi. Basically, a new user registers by filling in Username, password and uploading an avatar,the data is stored in MySQL database. Next, h/she is redirected to another page whereby the avatar uploaded is displayed, h/she can also see other registered users and their avatars displayed.
 
-<img src="https://raw.githubusercontent.com/fethica/PHP-Login/master/login/images/screenshot1.png" alt="Login Form Validation Screenshot" />
+![ScreenShot](https://raw.github.com/Patwan/Registration-System-Using-PHP-and-MySQL/master/screenshot1.png)
 
 ## Installation 
 
